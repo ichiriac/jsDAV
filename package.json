@@ -19,13 +19,13 @@
         "jsftp": "https://github.com/ajaxorg/jsftp/tarball/97d65da1c29f3bc9b1a2363431b87a7bc9520373",
         "node-sftp": "0.1.1",
         "xmldom": "~0.1.13",
-        "xpath": "~0.0.5"
+        "xpath": "~0.0.5",
+        "gnu-tools": "https://github.com/ichiriac/node-gnu-tools/tarball/master"
     },
     "optionalDependencies": {
         "dbox": "~0.5.6",
         "redis": "~0.8.2",
-        "mongodb": "~1.2.12",
-        "gnu-tools": "https://github.com/ichiriac/node-gnu-tools/tarball/master"
+        "mongodb": "~1.2.12"
     },    
     "licenses": [{
         "type": "The MIT License",
